@@ -1,0 +1,17 @@
+i2c.c:31:13:i2c_start_bit	8	static
+i2c.c:42:13:i2c_stop_bit	8	static
+i2c.c:53:13:i2c_repeated_start	8	static
+i2c.c:64:13:begin_transmit	8	static
+i2c.c:75:13:begin_recieve	8	static
+i2c.c:86:13:i2c_send_ack_bit	8	static
+i2c.c:97:13:i2c_send_nack_bit	8	static
+i2c.c:108:13:tx_addr_read	16	static
+i2c.c:119:13:tx_addr_write	16	static
+i2c.c:130:16:i2c_rx_slave_data	8	static
+i2c.c:141:6:init_I2C	8	static
+i2c.c:163:6:i2c_ack_wait	8	static
+i2c.c:176:6:i2c_start_seq	8	static
+i2c.c:189:6:i2c_read_addr	16	static
+i2c.c:212:9:i2c_read_reg	32	static
+i2c.c:244:9:i2c_rxByte	32	static
+i2c.c:281:6:i2c_txByte	24	static

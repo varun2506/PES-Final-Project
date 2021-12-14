@@ -1,0 +1,2 @@
+mma8451.c:27:5:init_MMA	8	static
+mma8451.c:47:5:compute_angle	48	static

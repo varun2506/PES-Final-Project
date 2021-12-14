@@ -1,0 +1,4 @@
+test_acc.c:42:6:delay	24	static
+test_acc.c:64:6:test_accelerometer	152	static
+test_acc.c:110:6:self_test_accelerometer_mode	16	static
+test_acc.c:143:6:test_accelerometer_i2c	8	static

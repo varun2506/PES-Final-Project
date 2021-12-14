@@ -1,0 +1,9 @@
+UI.c:65:13:measure	40	static
+UI.c:100:13:user	48	static
+UI.c:129:13:fixed	40	static
+UI.c:155:13:level	40	static
+UI.c:185:13:help	24	static
+UI.c:202:13:handle_unknown	24	static
+UI.c:241:7:user_input	664	static
+UI.c:288:6:process_command	96	static
+UI.c:394:6:command_interface	8	static
